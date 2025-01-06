@@ -1,8 +1,12 @@
-# Athan
+<div align="center">
+  <img src="assets/banner.png" alt="Athan Icon" width="128" height="128"/>
+  
+  # Athan
+  
+  A native macOS application that provides accurate Islamic prayer times with a beautiful interface and system-wide features.
+</div>
 
-![Athan App Banner](assets/banner.png)
-
-Athan is a native macOS application that provides accurate Islamic prayer times with a beautiful interface and system-wide features.
+---
 
 ## Features
 
@@ -95,8 +99,7 @@ All accent colors from macOS System Settings are supported, providing a seamless
 ## Third-Party APIs and Acknowledgments
 
 - [Al Adhan API](https://aladhan.com/prayer-times-api) - Prayer times calculation
-- [Apple WidgetKit](https://developer.apple.com/documentation/widgetkit) - Widget support
-- [SwiftUI](https://developer.apple.com/xcode/swiftui/) - User interface framework
+
 
 ## Privacy
 
@@ -109,13 +112,6 @@ Athan respects your privacy:
 ## Support
 
 For support, bug reports, or feature requests:
-- Email: support@example.com
 - Create an issue on GitHub
-
-## Version History
-
-See [CHANGELOG.md](CHANGELOG.md) for version history and changes.
-
 ---
 
-*Note: Replace placeholder image paths (assets/...) with actual screenshots of your app.*
